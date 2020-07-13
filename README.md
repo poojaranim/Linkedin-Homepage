@@ -6,7 +6,7 @@
 
 ## Live Version
 
-**[Click here! :)](http://linkedin-layout-clone.surge.sh/)**
+**[Click here! :)](http://linkedin-layout-clone.poojaranim/)**
 
 ## Project Overview
 
